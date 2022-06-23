@@ -5,3 +5,6 @@ You wake up early morning without any goal, you can go back to sleep.
 You are not a drop in the ocean, you are the ocean in a drop.
 Make money till your EX calls you and say, "please tell my friends once dated you. they don't belive me".
 Stop sitting at the table where they speak evil about others. Because when you get up you are the topic.
+
+# this quote after changing branch 
+write may be latter.
